@@ -1,0 +1,5 @@
+C:\Users\Romulo Meirelles\source\repos\BitnuvemAPI\BitnuvemAPI.Standard\obj\Debug\netstandard1.6\BitnuvemAPI.Standard.vbproj.AssemblyReference.cache
+C:\Users\Romulo Meirelles\source\repos\BitnuvemAPI\BitnuvemAPI.Standard\obj\Debug\netstandard1.6\BitnuvemAPI.Standard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Romulo Meirelles\source\repos\BitnuvemAPI\BitnuvemAPI.Standard\obj\Debug\netstandard1.6\BitnuvemAPI.Standard.AssemblyInfoInputs.cache
+C:\Users\Romulo Meirelles\source\repos\BitnuvemAPI\BitnuvemAPI.Standard\obj\Debug\netstandard1.6\BitnuvemAPI.Standard.AssemblyInfo.vb
+C:\Users\Romulo Meirelles\source\repos\BitnuvemAPI\BitnuvemAPI.Standard\obj\Debug\netstandard1.6\BitnuvemAPI.Standard.vbproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+C:\Users\Romulo Meirelles\source\repos\BitnuvemAPI\BitnuvemAPI.Standard\bin\Debug\netstandard2.0\Microsoft.VisualBasic.Core.dll
+C:\Users\Romulo Meirelles\source\repos\BitnuvemAPI\BitnuvemAPI.Standard\bin\Debug\netstandard2.0\Microsoft.VisualBasic.Core.xml
+C:\Users\Romulo Meirelles\source\repos\BitnuvemAPI\BitnuvemAPI.Standard\obj\Debug\netstandard2.0\BitnuvemAPI.Standard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Romulo Meirelles\source\repos\BitnuvemAPI\BitnuvemAPI.Standard\obj\Debug\netstandard2.0\BitnuvemAPI.Standard.AssemblyInfoInputs.cache
+C:\Users\Romulo Meirelles\source\repos\BitnuvemAPI\BitnuvemAPI.Standard\obj\Debug\netstandard2.0\BitnuvemAPI.Standard.AssemblyInfo.vb
+C:\Users\Romulo Meirelles\source\repos\BitnuvemAPI\BitnuvemAPI.Standard\obj\Debug\netstandard2.0\BitnuvemAPI.Standard.vbproj.CoreCompileInputs.cache
+C:\Users\Romulo Meirelles\source\repos\BitnuvemAPI\BitnuvemAPI.Standard\obj\Debug\netstandard2.0\BitnuvemAPI.Standard.vbproj.CopyComplete
+C:\Users\Romulo Meirelles\source\repos\BitnuvemAPI\BitnuvemAPI.Standard\bin\Debug\netstandard2.0\BitnuvemAPI.deps.json
+C:\Users\Romulo Meirelles\source\repos\BitnuvemAPI\BitnuvemAPI.Standard\bin\Debug\netstandard2.0\BitnuvemAPI.dll
+C:\Users\Romulo Meirelles\source\repos\BitnuvemAPI\BitnuvemAPI.Standard\bin\Debug\netstandard2.0\BitnuvemAPI.pdb
+C:\Users\Romulo Meirelles\source\repos\BitnuvemAPI\BitnuvemAPI.Standard\obj\Debug\netstandard2.0\BitnuvemAPI.dll
+C:\Users\Romulo Meirelles\source\repos\BitnuvemAPI\BitnuvemAPI.Standard\obj\Debug\netstandard2.0\BitnuvemAPI.pdb
