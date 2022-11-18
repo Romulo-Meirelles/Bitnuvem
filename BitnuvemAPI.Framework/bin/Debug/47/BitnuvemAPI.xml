@@ -1,0 +1,354 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BitnuvemAPI
+</name>
+</assembly>
+<members>
+<member name="T:BitnuvemAPI.My.Resources.Resources">
+<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+<member name="P:BitnuvemAPI.My.Resources.Resources.ResourceManager">
+<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member>
+<member name="P:BitnuvemAPI.My.Resources.Resources.Culture">
+<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member>
+<member name="T:BitnuvemAPI.Bitnuvem.ApiConfig">
+ <summary>
+ *** MADE FOR GITHUB ***
+ WRITTEN BY ROMULO MEIRELLES.
+ UPWORK: https://www.upwork.com/freelancers/~01fcbc5039ac5766b4
+ CONTACT WHATSAPP: https://wa.me/message/KWIS3BYO6K24N1
+ CONTACT TELEGRAM: https://t.me/Romulo_Meirelles
+ GITHUB: https://github.com/Romulo-Meirelles
+ DISCORD: đąяķňέs§¢øďε#2786
+ </summary>
+ <remarks></remarks>
+ 
+</member>
+<member name="T:BitnuvemAPI.Bitnuvem.BitnuvemClient">
+ <summary>
+ *** MADE FOR GITHUB ***
+ WRITTEN BY ROMULO MEIRELLES.
+ UPWORK: https://www.upwork.com/freelancers/~01fcbc5039ac5766b4
+ CONTACT WHATSAPP: https://wa.me/message/KWIS3BYO6K24N1
+ CONTACT TELEGRAM: https://t.me/Romulo_Meirelles
+ GITHUB: https://github.com/Romulo-Meirelles
+ DISCORD: đąяķňέs§¢øďε#2786
+ </summary>
+ <remarks></remarks>
+ 
+</member>
+<member name="T:BitnuvemAPI.Bitnuvem.BitnuvemException">
+ <summary>
+ *** MADE FOR GITHUB ***
+ WRITTEN BY ROMULO MEIRELLES.
+ UPWORK: https://www.upwork.com/freelancers/~01fcbc5039ac5766b4
+ CONTACT WHATSAPP: https://wa.me/message/KWIS3BYO6K24N1
+ CONTACT TELEGRAM: https://t.me/Romulo_Meirelles
+ GITHUB: https://github.com/Romulo-Meirelles
+ DISCORD: đąяķňέs§¢øďε#2786
+ </summary>
+ <remarks></remarks>
+ 
+</member>
+<member name="T:BitnuvemAPI.Bitnuvem.HttpClientRequester">
+ <summary>
+ *** MADE FOR GITHUB ***
+ WRITTEN BY ROMULO MEIRELLES.
+ UPWORK: https://www.upwork.com/freelancers/~01fcbc5039ac5766b4
+ CONTACT WHATSAPP: https://wa.me/message/KWIS3BYO6K24N1
+ CONTACT TELEGRAM: https://t.me/Romulo_Meirelles
+ GITHUB: https://github.com/Romulo-Meirelles
+ DISCORD: đąяķňέs§¢øďε#2786
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:BitnuvemAPI.Bitnuvem.IRequester">
+ <summary>
+ *** MADE FOR GITHUB ***
+ WRITTEN BY ROMULO MEIRELLES.
+ UPWORK: https://www.upwork.com/freelancers/~01fcbc5039ac5766b4
+ CONTACT WHATSAPP: https://wa.me/message/KWIS3BYO6K24N1
+ CONTACT TELEGRAM: https://t.me/Romulo_Meirelles
+ GITHUB: https://github.com/Romulo-Meirelles
+ DISCORD: đąяķňέs§¢øďε#2786
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:BitnuvemAPI.Bitnuvem.RequesterBase">
+ <summary>
+ *** MADE FOR GITHUB ***
+ WRITTEN BY ROMULO MEIRELLES.
+ UPWORK: https://www.upwork.com/freelancers/~01fcbc5039ac5766b4
+ CONTACT WHATSAPP: https://wa.me/message/KWIS3BYO6K24N1
+ CONTACT TELEGRAM: https://t.me/Romulo_Meirelles
+ GITHUB: https://github.com/Romulo-Meirelles
+ DISCORD: đąяķňέs§¢øďε#2786
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:BitnuvemAPI.Bitnuvem.IBitnuvemClient">
+ <summary>
+ *** MADE FOR GITHUB ***
+ WRITTEN BY ROMULO MEIRELLES.
+ UPWORK: https://www.upwork.com/freelancers/~01fcbc5039ac5766b4
+ CONTACT WHATSAPP: https://wa.me/message/KWIS3BYO6K24N1
+ CONTACT TELEGRAM: https://t.me/Romulo_Meirelles
+ GITHUB: https://github.com/Romulo-Meirelles
+ DISCORD: đąяķňέs§¢øďε#2786
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:BitnuvemAPI.Bitnuvem.IInterceptor">
+ <summary>
+ *** MADE FOR GITHUB ***
+ WRITTEN BY ROMULO MEIRELLES.
+ UPWORK: https://www.upwork.com/freelancers/~01fcbc5039ac5766b4
+ CONTACT WHATSAPP: https://wa.me/message/KWIS3BYO6K24N1
+ CONTACT TELEGRAM: https://t.me/Romulo_Meirelles
+ GITHUB: https://github.com/Romulo-Meirelles
+ DISCORD: đąяķňέs§¢øďε#2786
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:BitnuvemAPI.Bitnuvem.InterceptorFailException">
+ <summary>
+ *** MADE FOR GITHUB ***
+ WRITTEN BY ROMULO MEIRELLES.
+ UPWORK: https://www.upwork.com/freelancers/~01fcbc5039ac5766b4
+ CONTACT WHATSAPP: https://wa.me/message/KWIS3BYO6K24N1
+ CONTACT TELEGRAM: https://t.me/Romulo_Meirelles
+ GITHUB: https://github.com/Romulo-Meirelles
+ DISCORD: đąяķňέs§¢øďε#2786
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:BitnuvemAPI.Bitnuvem.InterceptorResult">
+ <summary>
+ *** MADE FOR GITHUB ***
+ WRITTEN BY ROMULO MEIRELLES.
+ UPWORK: https://www.upwork.com/freelancers/~01fcbc5039ac5766b4
+ CONTACT WHATSAPP: https://wa.me/message/KWIS3BYO6K24N1
+ CONTACT TELEGRAM: https://t.me/Romulo_Meirelles
+ GITHUB: https://github.com/Romulo-Meirelles
+ DISCORD: đąяķňέs§¢øďε#2786
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:BitnuvemAPI.Bitnuvem.SendInterceptorExtensions">
+ <summary>
+ *** MADE FOR GITHUB ***
+ WRITTEN BY ROMULO MEIRELLES.
+ UPWORK: https://www.upwork.com/freelancers/~01fcbc5039ac5766b4
+ CONTACT WHATSAPP: https://wa.me/message/KWIS3BYO6K24N1
+ CONTACT TELEGRAM: https://t.me/Romulo_Meirelles
+ GITHUB: https://github.com/Romulo-Meirelles
+ DISCORD: đąяķňέs§¢øďε#2786
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:BitnuvemAPI.Bitnuvem.InvalidCryptocurrencyAddressException">
+ <summary>
+ *** MADE FOR GITHUB ***
+ WRITTEN BY ROMULO MEIRELLES.
+ UPWORK: https://www.upwork.com/freelancers/~01fcbc5039ac5766b4
+ CONTACT WHATSAPP: https://wa.me/message/KWIS3BYO6K24N1
+ CONTACT TELEGRAM: https://t.me/Romulo_Meirelles
+ GITHUB: https://github.com/Romulo-Meirelles
+ DISCORD: đąяķňέs§¢øďε#2786
+ </summary>
+ <remarks></remarks>
+ 
+</member>
+<member name="T:BitnuvemAPI.Bitnuvem.Cotacao">
+ <summary>
+ *** MADE FOR GITHUB ***
+ WRITTEN BY ROMULO MEIRELLES.
+ UPWORK: https://www.upwork.com/freelancers/~01fcbc5039ac5766b4
+ CONTACT WHATSAPP: https://wa.me/message/KWIS3BYO6K24N1
+ CONTACT TELEGRAM: https://t.me/Romulo_Meirelles
+ GITHUB: https://github.com/Romulo-Meirelles
+ DISCORD: đąяķňέs§¢øďε#2786
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:BitnuvemAPI.Bitnuvem.Fee">
+ <summary>
+ *** MADE FOR GITHUB ***
+ WRITTEN BY ROMULO MEIRELLES.
+ UPWORK: https://www.upwork.com/freelancers/~01fcbc5039ac5766b4
+ CONTACT WHATSAPP: https://wa.me/message/KWIS3BYO6K24N1
+ CONTACT TELEGRAM: https://t.me/Romulo_Meirelles
+ GITHUB: https://github.com/Romulo-Meirelles
+ DISCORD: đąяķňέs§¢øďε#2786
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:BitnuvemAPI.Bitnuvem.OrderBook">
+ <summary>
+ *** MADE FOR GITHUB ***
+ WRITTEN BY ROMULO MEIRELLES.
+ UPWORK: https://www.upwork.com/freelancers/~01fcbc5039ac5766b4
+ CONTACT WHATSAPP: https://wa.me/message/KWIS3BYO6K24N1
+ CONTACT TELEGRAM: https://t.me/Romulo_Meirelles
+ GITHUB: https://github.com/Romulo-Meirelles
+ DISCORD: đąяķňέs§¢øďε#2786
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:BitnuvemAPI.Bitnuvem.Ticker">
+ <summary>
+ *** MADE FOR GITHUB ***
+ WRITTEN BY ROMULO MEIRELLES.
+ UPWORK: https://www.upwork.com/freelancers/~01fcbc5039ac5766b4
+ CONTACT WHATSAPP: https://wa.me/message/KWIS3BYO6K24N1
+ CONTACT TELEGRAM: https://t.me/Romulo_Meirelles
+ GITHUB: https://github.com/Romulo-Meirelles
+ DISCORD: đąяķňέs§¢øďε#2786
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:BitnuvemAPI.Bitnuvem.TradeAdvanced">
+ <summary>
+ *** MADE FOR GITHUB ***
+ WRITTEN BY ROMULO MEIRELLES.
+ UPWORK: https://www.upwork.com/freelancers/~01fcbc5039ac5766b4
+ CONTACT WHATSAPP: https://wa.me/message/KWIS3BYO6K24N1
+ CONTACT TELEGRAM: https://t.me/Romulo_Meirelles
+ GITHUB: https://github.com/Romulo-Meirelles
+ DISCORD: đąяķňέs§¢øďε#2786
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:BitnuvemAPI.Bitnuvem.Trades">
+ <summary>
+ *** MADE FOR GITHUB ***
+ WRITTEN BY ROMULO MEIRELLES.
+ UPWORK: https://www.upwork.com/freelancers/~01fcbc5039ac5766b4
+ CONTACT WHATSAPP: https://wa.me/message/KWIS3BYO6K24N1
+ CONTACT TELEGRAM: https://t.me/Romulo_Meirelles
+ GITHUB: https://github.com/Romulo-Meirelles
+ DISCORD: đąяķňέs§¢øďε#2786
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:BitnuvemAPI.Bitnuvem.BitnuvemResponse">
+ <summary>
+ *** MADE FOR GITHUB ***
+ WRITTEN BY ROMULO MEIRELLES.
+ UPWORK: https://www.upwork.com/freelancers/~01fcbc5039ac5766b4
+ CONTACT WHATSAPP: https://wa.me/message/KWIS3BYO6K24N1
+ CONTACT TELEGRAM: https://t.me/Romulo_Meirelles
+ GITHUB: https://github.com/Romulo-Meirelles
+ DISCORD: đąяķňέs§¢øďε#2786
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:BitnuvemAPI.Bitnuvem.Account_Bank_List.Result">
+ <summary>
+ *** MADE FOR GITHUB ***
+ WRITTEN BY ROMULO MEIRELLES.
+ UPWORK: https://www.upwork.com/freelancers/~01fcbc5039ac5766b4
+ CONTACT WHATSAPP: https://wa.me/message/KWIS3BYO6K24N1
+ CONTACT TELEGRAM: https://t.me/Romulo_Meirelles
+ GITHUB: https://github.com/Romulo-Meirelles
+ DISCORD: đąяķňέs§¢øďε#2786
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:BitnuvemAPI.Bitnuvem.BalanceResponse">
+ <summary>
+ *** MADE FOR GITHUB ***
+ WRITTEN BY ROMULO MEIRELLES.
+ UPWORK: https://www.upwork.com/freelancers/~01fcbc5039ac5766b4
+ CONTACT WHATSAPP: https://wa.me/message/KWIS3BYO6K24N1
+ CONTACT TELEGRAM: https://t.me/Romulo_Meirelles
+ GITHUB: https://github.com/Romulo-Meirelles
+ DISCORD: đąяķňέs§¢øďε#2786
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:BitnuvemAPI.Bitnuvem.Order_Cancel">
+ <summary>
+ *** MADE FOR GITHUB ***
+ WRITTEN BY ROMULO MEIRELLES.
+ UPWORK: https://www.upwork.com/freelancers/~01fcbc5039ac5766b4
+ CONTACT WHATSAPP: https://wa.me/message/KWIS3BYO6K24N1
+ CONTACT TELEGRAM: https://t.me/Romulo_Meirelles
+ GITHUB: https://github.com/Romulo-Meirelles
+ DISCORD: đąяķňέs§¢øďε#2786
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:BitnuvemAPI.Bitnuvem.Order_Get">
+ <summary>
+ *** MADE FOR GITHUB ***
+ WRITTEN BY ROMULO MEIRELLES.
+ UPWORK: https://www.upwork.com/freelancers/~01fcbc5039ac5766b4
+ CONTACT WHATSAPP: https://wa.me/message/KWIS3BYO6K24N1
+ CONTACT TELEGRAM: https://t.me/Romulo_Meirelles
+ GITHUB: https://github.com/Romulo-Meirelles
+ DISCORD: đąяķňέs§¢øďε#2786
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:BitnuvemAPI.Bitnuvem.Order_List">
+ <summary>
+ *** MADE FOR GITHUB ***
+ WRITTEN BY ROMULO MEIRELLES.
+ UPWORK: https://www.upwork.com/freelancers/~01fcbc5039ac5766b4
+ CONTACT WHATSAPP: https://wa.me/message/KWIS3BYO6K24N1
+ CONTACT TELEGRAM: https://t.me/Romulo_Meirelles
+ GITHUB: https://github.com/Romulo-Meirelles
+ DISCORD: đąяķňέs§¢øďε#2786
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:BitnuvemAPI.Bitnuvem.Order_New_Limite">
+ <summary>
+ *** MADE FOR GITHUB ***
+ WRITTEN BY ROMULO MEIRELLES.
+ UPWORK: https://www.upwork.com/freelancers/~01fcbc5039ac5766b4
+ CONTACT WHATSAPP: https://wa.me/message/KWIS3BYO6K24N1
+ CONTACT TELEGRAM: https://t.me/Romulo_Meirelles
+ GITHUB: https://github.com/Romulo-Meirelles
+ DISCORD: đąяķňέs§¢øďε#2786
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:BitnuvemAPI.Bitnuvem.Send">
+ <summary>
+ *** MADE FOR GITHUB ***
+ WRITTEN BY ROMULO MEIRELLES.
+ UPWORK: https://www.upwork.com/freelancers/~01fcbc5039ac5766b4
+ CONTACT WHATSAPP: https://wa.me/message/KWIS3BYO6K24N1
+ CONTACT TELEGRAM: https://t.me/Romulo_Meirelles
+ GITHUB: https://github.com/Romulo-Meirelles
+ DISCORD: đąяķňέs§¢øďε#2786
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:BitnuvemAPI.Bitnuvem.Withdraw">
+ <summary>
+ *** MADE FOR GITHUB ***
+ WRITTEN BY ROMULO MEIRELLES.
+ UPWORK: https://www.upwork.com/freelancers/~01fcbc5039ac5766b4
+ CONTACT WHATSAPP: https://wa.me/message/KWIS3BYO6K24N1
+ CONTACT TELEGRAM: https://t.me/Romulo_Meirelles
+ GITHUB: https://github.com/Romulo-Meirelles
+ DISCORD: đąяķňέs§¢øďε#2786
+ </summary>
+ <remarks></remarks>
+</member>
+</members>
+</doc>
