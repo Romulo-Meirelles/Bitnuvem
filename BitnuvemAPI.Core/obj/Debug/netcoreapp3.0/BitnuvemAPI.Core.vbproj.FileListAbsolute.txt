@@ -1,0 +1,12 @@
+C:\Users\Romulo Meirelles\source\repos\BitnuvemAPI\BitnuvemAPI.Core\bin\Debug\netcoreapp3.0\BitnuvemAPI.deps.json
+C:\Users\Romulo Meirelles\source\repos\BitnuvemAPI\BitnuvemAPI.Core\bin\Debug\netcoreapp3.0\BitnuvemAPI.dll
+C:\Users\Romulo Meirelles\source\repos\BitnuvemAPI\BitnuvemAPI.Core\bin\Debug\netcoreapp3.0\BitnuvemAPI.pdb
+C:\Users\Romulo Meirelles\source\repos\BitnuvemAPI\BitnuvemAPI.Core\obj\Debug\netcoreapp3.0\BitnuvemAPI.Core.vbproj.AssemblyReference.cache
+C:\Users\Romulo Meirelles\source\repos\BitnuvemAPI\BitnuvemAPI.Core\obj\Debug\netcoreapp3.0\BitnuvemAPI.Resources.resources
+C:\Users\Romulo Meirelles\source\repos\BitnuvemAPI\BitnuvemAPI.Core\obj\Debug\netcoreapp3.0\BitnuvemAPI.Core.vbproj.GenerateResource.cache
+C:\Users\Romulo Meirelles\source\repos\BitnuvemAPI\BitnuvemAPI.Core\obj\Debug\netcoreapp3.0\BitnuvemAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Romulo Meirelles\source\repos\BitnuvemAPI\BitnuvemAPI.Core\obj\Debug\netcoreapp3.0\BitnuvemAPI.Core.AssemblyInfoInputs.cache
+C:\Users\Romulo Meirelles\source\repos\BitnuvemAPI\BitnuvemAPI.Core\obj\Debug\netcoreapp3.0\BitnuvemAPI.Core.AssemblyInfo.vb
+C:\Users\Romulo Meirelles\source\repos\BitnuvemAPI\BitnuvemAPI.Core\obj\Debug\netcoreapp3.0\BitnuvemAPI.Core.vbproj.CoreCompileInputs.cache
+C:\Users\Romulo Meirelles\source\repos\BitnuvemAPI\BitnuvemAPI.Core\obj\Debug\netcoreapp3.0\BitnuvemAPI.dll
+C:\Users\Romulo Meirelles\source\repos\BitnuvemAPI\BitnuvemAPI.Core\obj\Debug\netcoreapp3.0\BitnuvemAPI.pdb
