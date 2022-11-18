@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "BitnuvemAPI.Core", "BitnuvemAPI.Core\BitnuvemAPI.Core.vbproj", "{DB8D1073-0304-4BD2-ACA1-61B9E5C0CC7E}"
+EndProject
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "TestAPI", "TestAPI\TestAPI.vbproj", "{87F27BB7-4A4D-4D82-9A0B-586594B10C2A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BitnuvemAPI.Framework", "BitnuvemAPI.Framework\BitnuvemAPI.Framework.vbproj", "{5C104EE9-D5DB-4861-B048-A5303134D179}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BitnuvemAPI.Standard", "BitnuvemAPI.Standard\BitnuvemAPI.Standard.vbproj", "{BDA7B3F0-31AC-4AFB-950D-D87443956399}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB8D1073-0304-4BD2-ACA1-61B9E5C0CC7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB8D1073-0304-4BD2-ACA1-61B9E5C0CC7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB8D1073-0304-4BD2-ACA1-61B9E5C0CC7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB8D1073-0304-4BD2-ACA1-61B9E5C0CC7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87F27BB7-4A4D-4D82-9A0B-586594B10C2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F27BB7-4A4D-4D82-9A0B-586594B10C2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F27BB7-4A4D-4D82-9A0B-586594B10C2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F27BB7-4A4D-4D82-9A0B-586594B10C2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C104EE9-D5DB-4861-B048-A5303134D179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C104EE9-D5DB-4861-B048-A5303134D179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C104EE9-D5DB-4861-B048-A5303134D179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C104EE9-D5DB-4861-B048-A5303134D179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDA7B3F0-31AC-4AFB-950D-D87443956399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA7B3F0-31AC-4AFB-950D-D87443956399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA7B3F0-31AC-4AFB-950D-D87443956399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA7B3F0-31AC-4AFB-950D-D87443956399}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {257D83E7-7C6E-41B8-895B-6DD74036ED37}
+	EndGlobalSection
+EndGlobal
